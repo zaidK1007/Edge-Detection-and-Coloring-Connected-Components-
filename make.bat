@@ -1,0 +1,1 @@
+gcc -O3 -o components components.c dc_image.c -lm
